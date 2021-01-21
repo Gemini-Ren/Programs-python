@@ -1,3 +1,5 @@
+'''Renan Corrêa Sant'''
+
 import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -117,7 +119,7 @@ b4.place(x=200,y=300)
 
 windows.mainloop()
 
+''' 
+Verificar se seu chromedriver é da versão 84, se for superior a essa versão haverá uma falha.
 '''
-Renan Corrêa Sant'anna
 
-'''
